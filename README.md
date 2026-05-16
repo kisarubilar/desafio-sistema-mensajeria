@@ -1,5 +1,3 @@
-https://github.com/kisarubilar/desafio-sistema-mensajeria
-
 # Desafío 1 - Sistema de Mensajería 💬
 
 Este proyecto consiste en la maquetación responsiva de la interfaz de una aplicación de mensajería y redes de contacto para la empresa **Contact Me SPA**. El objetivo principal fue estructurar el layout utilizando **CSS Flexbox** de forma precisa, limpia y eficiente.
@@ -10,7 +8,7 @@ Este proyecto consiste en la maquetación responsiva de la interfaz de una aplic
 
 Puedes ver y probar la interfaz interactiva corriendo en vivo a través de **GitHub Pages** haciendo clic en el siguiente enlace:
 
-👉 **[Ver el Resultado Final Aquí]**(https://github.com/kisarubilar/desafio-sistema-mensajeria
+👉 **[Ver el Resultado Final Aquí]**(https://kisarubilar.github.io/desafio-sistema-mensajeria/)
 )**
 
 ---
